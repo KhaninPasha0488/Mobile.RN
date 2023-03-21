@@ -1,17 +1,3 @@
-# Collaborative Code Mobile. 
-____
-### [Mockup](https://www.figma.com/file/woKRnr0V6wEzOsCTu3pA0U/Live-Coding-App?node-id=1%3A3)
-
-### [Description](https://docs.google.com/document/d/1nRaXjmNPGJMoNiC37SxKDyMah8exJpWiYUTCvTsESsM/edit)
-
-### Technology stack:
-
-+ React Native
-+ React Navigation
-+ TypeScript
-+ Redux-Toolkit
-+ Storybook
-+ Styled Components
 
 NodeJS version 15.0 and higher
 
