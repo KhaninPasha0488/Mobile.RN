@@ -1,0 +1,6 @@
+module Pods_CCMobile_CCMobileTests {
+  umbrella header "Pods-CCMobile-CCMobileTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
